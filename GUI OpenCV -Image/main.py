@@ -1,3 +1,5 @@
+# Magno Efren - 2022
+# https://www.youtube.com/c/MagnoEfren/videos
 
 from PyQt5.QtWidgets import QMainWindow, QApplication
 from PyQt5.uic import loadUi 
